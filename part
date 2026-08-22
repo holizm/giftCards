@@ -1,0 +1,43 @@
+giftCardStatus options
+    pending
+    active
+    suspended
+    exhausted
+    expired
+    cancelled
+giftCardTransactionType options
+    issue
+    load
+    redeem
+    refund
+    transfer
+    adjustment
+giftCardBatch
+    title
+    prefix
+    quantity integer
+    initialValue realNumber
+    currency
+    expiryDate optional
+giftCard
+    code
+    verificationHash optional
+    giftCardBatch optional
+    owner optional
+    initialValue realNumber
+    balance realNumber
+    currency
+    giftCardStatus
+    activationDate optional
+    expiryDate optional
+    unique code
+giftCardTransaction
+    giftCard
+    giftCardTransactionType
+    amount realNumber
+    balance realNumber
+    transactionDate
+    order optional
+    payment optional
+    relatedGiftCard optional
+    description optional

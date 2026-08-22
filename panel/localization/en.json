@@ -1,0 +1,15 @@
+{
+    "giftCardsAmount": "Amount",
+    "giftCardsBalance": "Balance",
+    "giftCardsCode": "Code",
+    "giftCardsCurrency": "Currency",
+    "giftCardsDescription": "Description",
+    "giftCardsExpiryDate": "Expiry date",
+    "giftCardsGiftCard": "Gift card",
+    "giftCardsGiftCards": "Gift cards",
+    "giftCardsInitialValue": "Initial value",
+    "giftCardsStatus": "Status",
+    "giftCardsTransactionDate": "Transaction date",
+    "giftCardsTransactionType": "Transaction type",
+    "giftCardsTransactions": "Transactions"
+}
