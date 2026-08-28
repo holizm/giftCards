@@ -11,6 +11,7 @@ export default [
             },
         ],
         icon: 'cardGiftcard',
+        path: '/giftCards',
         title: 'giftCardsGiftCards',
     },
 ]
