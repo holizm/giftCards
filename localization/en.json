@@ -1,0 +1,23 @@
+{
+    "common": {},
+    "api": {},
+    "panel": {
+        "amount": "Amount",
+        "balance": "Balance",
+        "code": "Code",
+        "currency": "Currency",
+        "description": "Description",
+        "expiryDate": "Expiry date",
+        "giftCard": "Gift card",
+        "giftCards": "Gift cards",
+        "initialValue": "Initial value",
+        "status": "Status",
+        "transactionDate": "Transaction date",
+        "transactionType": "Transaction type",
+        "transactions": "Transactions"
+    },
+    "site": {
+        "balance": "Gift card balance",
+        "code": "Gift card code"
+    }
+}

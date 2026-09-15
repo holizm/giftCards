@@ -1,0 +1,23 @@
+{
+    "common": {},
+    "api": {},
+    "panel": {
+        "amount": "مبلغ",
+        "balance": "موجودی",
+        "code": "کد",
+        "currency": "ارز",
+        "description": "توضیحات",
+        "expiryDate": "تاریخ انقضا",
+        "giftCard": "کارت هدیه",
+        "giftCards": "کارت‌های هدیه",
+        "initialValue": "ارزش اولیه",
+        "status": "وضعیت",
+        "transactionDate": "تاریخ تراکنش",
+        "transactionType": "نوع تراکنش",
+        "transactions": "تراکنش‌ها"
+    },
+    "site": {
+        "balance": "موجودی کارت هدیه",
+        "code": "کد کارت هدیه"
+    }
+}
