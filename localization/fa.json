@@ -1,10 +1,8 @@
 {
-    "common": {},
-    "api": {},
-    "panel": {
+    "common": {
         "amount": "مبلغ",
-        "balance": "موجودی",
-        "code": "کد",
+        "balance": "موجودی کارت هدیه",
+        "code": "کد کارت هدیه",
         "currency": "ارز",
         "description": "توضیحات",
         "expiryDate": "تاریخ انقضا",
@@ -15,9 +13,5 @@
         "transactionDate": "تاریخ تراکنش",
         "transactionType": "نوع تراکنش",
         "transactions": "تراکنش‌ها"
-    },
-    "site": {
-        "balance": "موجودی کارت هدیه",
-        "code": "کد کارت هدیه"
     }
 }

@@ -1,10 +1,8 @@
 {
-    "common": {},
-    "api": {},
-    "panel": {
+    "common": {
         "amount": "Amount",
-        "balance": "Balance",
-        "code": "Code",
+        "balance": "Gift card balance",
+        "code": "Gift card code",
         "currency": "Currency",
         "description": "Description",
         "expiryDate": "Expiry date",
@@ -15,9 +13,5 @@
         "transactionDate": "Transaction date",
         "transactionType": "Transaction type",
         "transactions": "Transactions"
-    },
-    "site": {
-        "balance": "Gift card balance",
-        "code": "Gift card code"
     }
 }
