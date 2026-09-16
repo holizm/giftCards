@@ -36,7 +36,7 @@ const inputs = <>
             'expired',
             'cancelled',
         ]}
-        placeholder='giftCardsStatus'
+        placeholder='stateMachinesState'
         property='giftCardStatus'
         required
     />

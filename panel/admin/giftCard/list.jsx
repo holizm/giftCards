@@ -8,7 +8,7 @@ const headers = <>
     <th start>giftCardsCode</th>
     <th>giftCardsBalance</th>
     <th>giftCardsCurrency</th>
-    <th>giftCardsStatus</th>
+    <th>stateMachinesState</th>
 </>
 
 const row = item => <>
