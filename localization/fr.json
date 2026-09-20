@@ -1,0 +1,12 @@
+{
+    "common": {
+        "balance": "Solde de la carte-cadeau",
+        "code": "Code de la carte-cadeau",
+        "expiryDate": "Date d’expiration",
+        "giftCard": "Carte-cadeau",
+        "giftCards": "Cartes-cadeaux",
+        "initialValue": "Valeur initiale",
+        "transactionDate": "Date de la transaction",
+        "transactionType": "Type de transaction"
+    }
+}

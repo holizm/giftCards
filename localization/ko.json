@@ -1,0 +1,12 @@
+{
+    "common": {
+        "balance": "기프트 카드 잔액",
+        "code": "기프트 카드 코드",
+        "expiryDate": "만료일",
+        "giftCard": "기프트 카드",
+        "giftCards": "기프트 카드",
+        "initialValue": "초기 금액",
+        "transactionDate": "거래일",
+        "transactionType": "거래 유형"
+    }
+}

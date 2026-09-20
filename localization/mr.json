@@ -1,0 +1,12 @@
+{
+    "common": {
+        "balance": "भेट कार्ड शिल्लक",
+        "code": "भेट कार्ड कोड",
+        "expiryDate": "समाप्ती तारीख",
+        "giftCard": "भेट कार्ड",
+        "giftCards": "भेट कार्डे",
+        "initialValue": "प्रारंभिक मूल्य",
+        "transactionDate": "व्यवहाराची तारीख",
+        "transactionType": "व्यवहाराचा प्रकार"
+    }
+}

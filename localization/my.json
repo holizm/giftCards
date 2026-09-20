@@ -1,0 +1,12 @@
+{
+    "common": {
+        "balance": "လက်ဆောင်ကတ် လက်ကျန်",
+        "code": "လက်ဆောင်ကတ် ကုဒ်",
+        "expiryDate": "သက်တမ်းကုန်ဆုံးရက်",
+        "giftCard": "လက်ဆောင်ကတ်",
+        "giftCards": "လက်ဆောင်ကတ်များ",
+        "initialValue": "ကနဦးတန်ဖိုး",
+        "transactionDate": "ငွေလွှဲရက်စွဲ",
+        "transactionType": "ငွေလွှဲအမျိုးအစား"
+    }
+}

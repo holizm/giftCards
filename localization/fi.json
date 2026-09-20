@@ -1,0 +1,12 @@
+{
+    "common": {
+        "balance": "Lahjakortin saldo",
+        "code": "Lahjakortin koodi",
+        "expiryDate": "Voimassaolon päättymispäivä",
+        "giftCard": "Lahjakortti",
+        "giftCards": "Lahjakortit",
+        "initialValue": "Alkuarvo",
+        "transactionDate": "Tapahtuman päivämäärä",
+        "transactionType": "Tapahtuman tyyppi"
+    }
+}

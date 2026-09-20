@@ -1,0 +1,12 @@
+{
+    "common": {
+        "balance": "יתרת כרטיס המתנה",
+        "code": "קוד כרטיס המתנה",
+        "expiryDate": "תאריך תפוגה",
+        "giftCard": "כרטיס מתנה",
+        "giftCards": "כרטיסי מתנה",
+        "initialValue": "ערך התחלתי",
+        "transactionDate": "תאריך העסקה",
+        "transactionType": "סוג העסקה"
+    }
+}

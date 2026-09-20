@@ -1,0 +1,12 @@
+{
+    "common": {
+        "balance": "礼品卡余额",
+        "code": "礼品卡代码",
+        "expiryDate": "到期日期",
+        "giftCard": "礼品卡",
+        "giftCards": "礼品卡",
+        "initialValue": "初始金额",
+        "transactionDate": "交易日期",
+        "transactionType": "交易类型"
+    }
+}

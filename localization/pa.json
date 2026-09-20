@@ -1,0 +1,12 @@
+{
+    "common": {
+        "balance": "ਤੋਹਫ਼ਾ ਕਾਰਡ ਬਕਾਇਆ",
+        "code": "ਤੋਹਫ਼ਾ ਕਾਰਡ ਕੋਡ",
+        "expiryDate": "ਮਿਆਦ ਪੁੱਗਣ ਦੀ ਮਿਤੀ",
+        "giftCard": "ਤੋਹਫ਼ਾ ਕਾਰਡ",
+        "giftCards": "ਤੋਹਫ਼ਾ ਕਾਰਡ",
+        "initialValue": "ਸ਼ੁਰੂਆਤੀ ਮੁੱਲ",
+        "transactionDate": "ਲੈਣ-ਦੇਣ ਦੀ ਮਿਤੀ",
+        "transactionType": "ਲੈਣ-ਦੇਣ ਦੀ ਕਿਸਮ"
+    }
+}

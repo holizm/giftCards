@@ -1,0 +1,12 @@
+{
+    "common": {
+        "balance": "Geskenkbewyssaldo",
+        "code": "Geskenkbewyskode",
+        "expiryDate": "Vervaldatum",
+        "giftCard": "Geskenkbewys",
+        "giftCards": "Geskenkbewyse",
+        "initialValue": "Aanvangswaarde",
+        "transactionDate": "Transaksiedatum",
+        "transactionType": "Transaksietipe"
+    }
+}

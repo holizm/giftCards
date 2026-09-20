@@ -1,0 +1,12 @@
+{
+    "common": {
+        "balance": "Baki kad hadiah",
+        "code": "Kod kad hadiah",
+        "expiryDate": "Tarikh luput",
+        "giftCard": "Kad hadiah",
+        "giftCards": "Kad hadiah",
+        "initialValue": "Nilai awal",
+        "transactionDate": "Tarikh transaksi",
+        "transactionType": "Jenis transaksi"
+    }
+}

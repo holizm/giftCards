@@ -1,0 +1,12 @@
+{
+    "common": {
+        "balance": "Saldo kartu hadiah",
+        "code": "Kode kartu hadiah",
+        "expiryDate": "Tanggal kedaluwarsa",
+        "giftCard": "Kartu hadiah",
+        "giftCards": "Kartu hadiah",
+        "initialValue": "Nilai awal",
+        "transactionDate": "Tanggal transaksi",
+        "transactionType": "Jenis transaksi"
+    }
+}

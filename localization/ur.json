@@ -1,0 +1,12 @@
+{
+    "common": {
+        "balance": "تحفہ کارڈ کا بیلنس",
+        "code": "تحفہ کارڈ کا کوڈ",
+        "expiryDate": "میعاد ختم ہونے کی تاریخ",
+        "giftCard": "تحفہ کارڈ",
+        "giftCards": "تحفہ کارڈز",
+        "initialValue": "ابتدائی قدر",
+        "transactionDate": "لین دین کی تاریخ",
+        "transactionType": "لین دین کی قسم"
+    }
+}

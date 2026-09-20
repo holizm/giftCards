@@ -1,0 +1,12 @@
+{
+    "common": {
+        "balance": "رصيد بطاقة الهدايا",
+        "code": "رمز بطاقة الهدايا",
+        "expiryDate": "تاريخ انتهاء الصلاحية",
+        "giftCard": "بطاقة هدايا",
+        "giftCards": "بطاقات الهدايا",
+        "initialValue": "القيمة الأولية",
+        "transactionDate": "تاريخ المعاملة",
+        "transactionType": "نوع المعاملة"
+    }
+}

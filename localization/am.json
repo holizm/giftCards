@@ -1,0 +1,12 @@
+{
+    "common": {
+        "balance": "የስጦታ ካርድ ቀሪ ሂሳብ",
+        "code": "የስጦታ ካርድ ኮድ",
+        "expiryDate": "የሚያበቃበት ቀን",
+        "giftCard": "የስጦታ ካርድ",
+        "giftCards": "የስጦታ ካርዶች",
+        "initialValue": "የመጀመሪያ ዋጋ",
+        "transactionDate": "የግብይት ቀን",
+        "transactionType": "የግብይት ዓይነት"
+    }
+}

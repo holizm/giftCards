@@ -1,0 +1,12 @@
+{
+    "common": {
+        "balance": "பரிசு அட்டை இருப்பு",
+        "code": "பரிசு அட்டை குறியீடு",
+        "expiryDate": "காலாவதி தேதி",
+        "giftCard": "பரிசு அட்டை",
+        "giftCards": "பரிசு அட்டைகள்",
+        "initialValue": "தொடக்க மதிப்பு",
+        "transactionDate": "பரிவர்த்தனை தேதி",
+        "transactionType": "பரிவர்த்தனை வகை"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "common": {
+        "balance": "Salio ya kadi ya zawadi",
+        "code": "Msimbo wa kadi ya zawadi",
+        "expiryDate": "Tarehe ya mwisho wa matumizi",
+        "giftCard": "Kadi ya zawadi",
+        "giftCards": "Kadi za zawadi",
+        "initialValue": "Thamani ya awali",
+        "transactionDate": "Tarehe ya muamala",
+        "transactionType": "Aina ya muamala"
+    }
+}

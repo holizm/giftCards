@@ -1,0 +1,12 @@
+{
+    "common": {
+        "balance": "Υπόλοιπο δωροκάρτας",
+        "code": "Κωδικός δωροκάρτας",
+        "expiryDate": "Ημερομηνία λήξης",
+        "giftCard": "Δωροκάρτα",
+        "giftCards": "Δωροκάρτες",
+        "initialValue": "Αρχική αξία",
+        "transactionDate": "Ημερομηνία συναλλαγής",
+        "transactionType": "Τύπος συναλλαγής"
+    }
+}

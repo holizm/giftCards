@@ -1,0 +1,12 @@
+{
+    "common": {
+        "balance": "Saldo do cartão-presente",
+        "code": "Código do cartão-presente",
+        "expiryDate": "Data de validade",
+        "giftCard": "Cartão-presente",
+        "giftCards": "Cartões-presente",
+        "initialValue": "Valor inicial",
+        "transactionDate": "Data da transação",
+        "transactionType": "Tipo de transação"
+    }
+}
