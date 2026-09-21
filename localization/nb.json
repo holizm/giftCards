@@ -2,11 +2,8 @@
     "common": {
         "balance": "Saldo på gavekort",
         "code": "Gavekortkode",
-        "expiryDate": "Utløpsdato",
         "giftCard": "Gavekort",
         "giftCards": "Gavekort",
-        "initialValue": "Startverdi",
-        "transactionDate": "Transaksjonsdato",
-        "transactionType": "Transaksjonstype"
+        "initialValue": "Startverdi"
     }
 }

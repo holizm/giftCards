@@ -2,11 +2,8 @@
     "common": {
         "balance": "禮品卡餘額",
         "code": "禮品卡代碼",
-        "expiryDate": "到期日",
         "giftCard": "禮品卡",
         "giftCards": "禮品卡",
-        "initialValue": "初始金額",
-        "transactionDate": "交易日期",
-        "transactionType": "交易類型"
+        "initialValue": "初始金額"
     }
 }

@@ -2,11 +2,8 @@
     "common": {
         "balance": "موجودی کارت هدیه",
         "code": "کد کارت هدیه",
-        "expiryDate": "تاریخ انقضا",
         "giftCard": "کارت هدیه",
         "giftCards": "کارت‌های هدیه",
-        "initialValue": "ارزش اولیه",
-        "transactionDate": "تاریخ تراکنش",
-        "transactionType": "نوع تراکنش"
+        "initialValue": "ارزش اولیه"
     }
 }

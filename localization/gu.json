@@ -2,11 +2,8 @@
     "common": {
         "balance": "ભેટ કાર્ડની બાકી રકમ",
         "code": "ભેટ કાર્ડ કોડ",
-        "expiryDate": "સમાપ્તિ તારીખ",
         "giftCard": "ભેટ કાર્ડ",
         "giftCards": "ભેટ કાર્ડ",
-        "initialValue": "પ્રારંભિક મૂલ્ય",
-        "transactionDate": "વ્યવહાર તારીખ",
-        "transactionType": "વ્યવહારનો પ્રકાર"
+        "initialValue": "પ્રારંભિક મૂલ્ય"
     }
 }

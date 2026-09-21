@@ -2,11 +2,8 @@
     "common": {
         "balance": "Soldul cardului cadou",
         "code": "Codul cardului cadou",
-        "expiryDate": "Data expirării",
         "giftCard": "Card cadou",
         "giftCards": "Carduri cadou",
-        "initialValue": "Valoare inițială",
-        "transactionDate": "Data tranzacției",
-        "transactionType": "Tipul tranzacției"
+        "initialValue": "Valoare inițială"
     }
 }

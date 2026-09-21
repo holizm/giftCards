@@ -2,11 +2,8 @@
     "common": {
         "balance": "బహుమతి కార్డ్ నిల్వ",
         "code": "బహుమతి కార్డ్ కోడ్",
-        "expiryDate": "గడువు తేదీ",
         "giftCard": "బహుమతి కార్డ్",
         "giftCards": "బహుమతి కార్డ్‌లు",
-        "initialValue": "ప్రారంభ విలువ",
-        "transactionDate": "లావాదేవీ తేదీ",
-        "transactionType": "లావాదేవీ రకం"
+        "initialValue": "ప్రారంభ విలువ"
     }
 }

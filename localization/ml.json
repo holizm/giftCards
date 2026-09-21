@@ -2,11 +2,8 @@
     "common": {
         "balance": "സമ്മാന കാർഡ് ബാലൻസ്",
         "code": "സമ്മാന കാർഡ് കോഡ്",
-        "expiryDate": "കാലഹരണ തീയതി",
         "giftCard": "സമ്മാന കാർഡ്",
         "giftCards": "സമ്മാന കാർഡുകൾ",
-        "initialValue": "പ്രാരംഭ മൂല്യം",
-        "transactionDate": "ഇടപാട് തീയതി",
-        "transactionType": "ഇടപാട് തരം"
+        "initialValue": "പ്രാരംഭ മൂല്യം"
     }
 }

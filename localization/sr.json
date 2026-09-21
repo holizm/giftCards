@@ -2,11 +2,8 @@
     "common": {
         "balance": "Стање поклон-картице",
         "code": "Код поклон-картице",
-        "expiryDate": "Датум истека",
         "giftCard": "Поклон-картица",
         "giftCards": "Поклон-картице",
-        "initialValue": "Почетна вредност",
-        "transactionDate": "Датум трансакције",
-        "transactionType": "Врста трансакције"
+        "initialValue": "Почетна вредност"
     }
 }

@@ -2,11 +2,8 @@
     "common": {
         "balance": "Stanje darovne kartice",
         "code": "Kod darovne kartice",
-        "expiryDate": "Datum isteka",
         "giftCard": "Darovna kartica",
         "giftCards": "Darovne kartice",
-        "initialValue": "Početna vrijednost",
-        "transactionDate": "Datum transakcije",
-        "transactionType": "Vrsta transakcije"
+        "initialValue": "Početna vrijednost"
     }
 }

@@ -2,11 +2,8 @@
     "common": {
         "balance": "Ìyókù káàdì ẹ̀bùn",
         "code": "Kóòdù káàdì ẹ̀bùn",
-        "expiryDate": "Ọjọ́ ìparí",
         "giftCard": "Káàdì ẹ̀bùn",
         "giftCards": "Àwọn káàdì ẹ̀bùn",
-        "initialValue": "Iye ìbẹ̀rẹ̀",
-        "transactionDate": "Ọjọ́ ìdúnàádúrà",
-        "transactionType": "Irú ìdúnàádúrà"
+        "initialValue": "Iye ìbẹ̀rẹ̀"
     }
 }

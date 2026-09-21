@@ -41,7 +41,7 @@ const inputs = <>
         required
     />
     <DateTime
-        placeholder='giftCardsExpiryDate'
+        placeholder='coreExpiryDate'
         property='expiryDate'
     />
 </>

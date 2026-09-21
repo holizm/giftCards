@@ -2,11 +2,8 @@
     "common": {
         "balance": "Ajándékkártya-egyenleg",
         "code": "Ajándékkártyakód",
-        "expiryDate": "Lejárati dátum",
         "giftCard": "Ajándékkártya",
         "giftCards": "Ajándékkártyák",
-        "initialValue": "Kezdeti érték",
-        "transactionDate": "Tranzakció dátuma",
-        "transactionType": "Tranzakció típusa"
+        "initialValue": "Kezdeti érték"
     }
 }

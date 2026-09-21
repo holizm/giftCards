@@ -2,11 +2,8 @@
     "common": {
         "balance": "Balanse ng gift card",
         "code": "Code ng gift card",
-        "expiryDate": "Petsa ng pag-expire",
         "giftCard": "Gift card",
         "giftCards": "Mga gift card",
-        "initialValue": "Paunang halaga",
-        "transactionDate": "Petsa ng transaksyon",
-        "transactionType": "Uri ng transaksyon"
+        "initialValue": "Paunang halaga"
     }
 }

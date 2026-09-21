@@ -2,11 +2,8 @@
     "common": {
         "balance": "उपहार कार्ड शेष",
         "code": "उपहार कार्ड कोड",
-        "expiryDate": "समाप्ति तिथि",
         "giftCard": "उपहार कार्ड",
         "giftCards": "उपहार कार्ड",
-        "initialValue": "प्रारंभिक मूल्य",
-        "transactionDate": "लेनदेन तिथि",
-        "transactionType": "लेनदेन प्रकार"
+        "initialValue": "प्रारंभिक मूल्य"
     }
 }

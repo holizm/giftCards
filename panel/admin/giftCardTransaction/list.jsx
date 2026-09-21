@@ -6,9 +6,9 @@ import Form from './form'
 
 const headers = <>
     <th start>giftCardsGiftCard</th>
-    <th>giftCardsTransactionType</th>
+    <th>coreTransactionType</th>
     <th>giftCardsAmount</th>
-    <th>giftCardsTransactionDate</th>
+    <th>coreTransactionDate</th>
 </>
 
 const row = item => <>

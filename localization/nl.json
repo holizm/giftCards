@@ -2,11 +2,8 @@
     "common": {
         "balance": "Saldo van cadeaukaart",
         "code": "Cadeaukaartcode",
-        "expiryDate": "Vervaldatum",
         "giftCard": "Cadeaukaart",
         "giftCards": "Cadeaukaarten",
-        "initialValue": "Beginwaarde",
-        "transactionDate": "Transactiedatum",
-        "transactionType": "Transactietype"
+        "initialValue": "Beginwaarde"
     }
 }

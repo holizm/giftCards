@@ -2,11 +2,8 @@
     "common": {
         "balance": "Hediye kartı bakiyesi",
         "code": "Hediye kartı kodu",
-        "expiryDate": "Son kullanma tarihi",
         "giftCard": "Hediye kartı",
         "giftCards": "Hediye kartları",
-        "initialValue": "Başlangıç değeri",
-        "transactionDate": "İşlem tarihi",
-        "transactionType": "İşlem türü"
+        "initialValue": "Başlangıç değeri"
     }
 }

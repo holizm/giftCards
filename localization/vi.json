@@ -2,11 +2,8 @@
     "common": {
         "balance": "Số dư thẻ quà tặng",
         "code": "Mã thẻ quà tặng",
-        "expiryDate": "Ngày hết hạn",
         "giftCard": "Thẻ quà tặng",
         "giftCards": "Thẻ quà tặng",
-        "initialValue": "Giá trị ban đầu",
-        "transactionDate": "Ngày giao dịch",
-        "transactionType": "Loại giao dịch"
+        "initialValue": "Giá trị ban đầu"
     }
 }

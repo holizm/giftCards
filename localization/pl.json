@@ -2,11 +2,8 @@
     "common": {
         "balance": "Saldo karty podarunkowej",
         "code": "Kod karty podarunkowej",
-        "expiryDate": "Data ważności",
         "giftCard": "Karta podarunkowa",
         "giftCards": "Karty podarunkowe",
-        "initialValue": "Wartość początkowa",
-        "transactionDate": "Data transakcji",
-        "transactionType": "Typ transakcji"
+        "initialValue": "Wartość początkowa"
     }
 }

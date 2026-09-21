@@ -2,11 +2,8 @@
     "common": {
         "balance": "Ragowar katin kyauta",
         "code": "Lambar katin kyauta",
-        "expiryDate": "Ranar ƙarewa",
         "giftCard": "Katin kyauta",
         "giftCards": "Katunan kyauta",
-        "initialValue": "Ƙimar farko",
-        "transactionDate": "Ranar ciniki",
-        "transactionType": "Nau'in ciniki"
+        "initialValue": "Ƙimar farko"
     }
 }

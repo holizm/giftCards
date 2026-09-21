@@ -2,11 +2,8 @@
     "common": {
         "balance": "ಉಡುಗೊರೆ ಕಾರ್ಡ್ ಬಾಕಿ",
         "code": "ಉಡುಗೊರೆ ಕಾರ್ಡ್ ಸಂಕೇತ",
-        "expiryDate": "ಅವಧಿ ಮುಗಿಯುವ ದಿನಾಂಕ",
         "giftCard": "ಉಡುಗೊರೆ ಕಾರ್ಡ್",
         "giftCards": "ಉಡುಗೊರೆ ಕಾರ್ಡ್‌ಗಳು",
-        "initialValue": "ಆರಂಭಿಕ ಮೌಲ್ಯ",
-        "transactionDate": "ವಹಿವಾಟಿನ ದಿನಾಂಕ",
-        "transactionType": "ವಹಿವಾಟಿನ ಪ್ರಕಾರ"
+        "initialValue": "ಆರಂಭಿಕ ಮೌಲ್ಯ"
     }
 }

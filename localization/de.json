@@ -2,11 +2,8 @@
     "common": {
         "balance": "Geschenkkartenguthaben",
         "code": "Geschenkkartencode",
-        "expiryDate": "Ablaufdatum",
         "giftCard": "Geschenkkarte",
         "giftCards": "Geschenkkarten",
-        "initialValue": "Anfangswert",
-        "transactionDate": "Transaktionsdatum",
-        "transactionType": "Transaktionstyp"
+        "initialValue": "Anfangswert"
     }
 }

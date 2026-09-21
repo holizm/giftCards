@@ -2,11 +2,8 @@
     "common": {
         "balance": "ยอดคงเหลือบัตรของขวัญ",
         "code": "รหัสบัตรของขวัญ",
-        "expiryDate": "วันหมดอายุ",
         "giftCard": "บัตรของขวัญ",
         "giftCards": "บัตรของขวัญ",
-        "initialValue": "มูลค่าเริ่มต้น",
-        "transactionDate": "วันที่ทำรายการ",
-        "transactionType": "ประเภทรายการ"
+        "initialValue": "มูลค่าเริ่มต้น"
     }
 }

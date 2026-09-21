@@ -22,7 +22,7 @@ const inputs = <>
             'transfer',
             'adjustment',
         ]}
-        placeholder='giftCardsTransactionType'
+        placeholder='coreTransactionType'
         property='giftCardTransactionType'
         required
     />
@@ -32,7 +32,7 @@ const inputs = <>
         required
     />
     <DateTime
-        placeholder='giftCardsTransactionDate'
+        placeholder='coreTransactionDate'
         property='transactionDate'
         required
     />

@@ -2,11 +2,8 @@
     "common": {
         "balance": "উপহার কার্ডের ব্যালেন্স",
         "code": "উপহার কার্ডের কোড",
-        "expiryDate": "মেয়াদ শেষের তারিখ",
         "giftCard": "উপহার কার্ড",
         "giftCards": "উপহার কার্ডসমূহ",
-        "initialValue": "প্রাথমিক মূল্য",
-        "transactionDate": "লেনদেনের তারিখ",
-        "transactionType": "লেনদেনের ধরন"
+        "initialValue": "প্রাথমিক মূল্য"
     }
 }

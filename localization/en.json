@@ -2,11 +2,8 @@
     "common": {
         "balance": "Gift card balance",
         "code": "Gift card code",
-        "expiryDate": "Expiry date",
         "giftCard": "Gift card",
         "giftCards": "Gift cards",
-        "initialValue": "Initial value",
-        "transactionDate": "Transaction date",
-        "transactionType": "Transaction type"
+        "initialValue": "Initial value"
     }
 }

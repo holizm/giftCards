@@ -2,11 +2,8 @@
     "common": {
         "balance": "ギフトカード残高",
         "code": "ギフトカードコード",
-        "expiryDate": "有効期限",
         "giftCard": "ギフトカード",
         "giftCards": "ギフトカード",
-        "initialValue": "初期金額",
-        "transactionDate": "取引日",
-        "transactionType": "取引種別"
+        "initialValue": "初期金額"
     }
 }

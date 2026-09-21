@@ -2,11 +2,8 @@
     "common": {
         "balance": "Zůstatek dárkové karty",
         "code": "Kód dárkové karty",
-        "expiryDate": "Datum platnosti",
         "giftCard": "Dárková karta",
         "giftCards": "Dárkové karty",
-        "initialValue": "Počáteční hodnota",
-        "transactionDate": "Datum transakce",
-        "transactionType": "Typ transakce"
+        "initialValue": "Počáteční hodnota"
     }
 }
