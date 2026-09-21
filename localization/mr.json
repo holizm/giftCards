@@ -3,7 +3,10 @@
         "balance": "भेट कार्ड शिल्लक",
         "code": "भेट कार्ड कोड",
         "giftCard": "भेट कार्ड",
-        "giftCards": "भेट कार्डे",
-        "initialValue": "प्रारंभिक मूल्य"
+        "giftCardBatch": "भेट कार्ड बॅच",
+        "giftCardBatches": "भेट कार्ड बॅच",
+        "giftCardTransaction": "भेट कार्ड व्यवहार",
+        "giftCardTransactions": "भेट कार्ड व्यवहार",
+        "giftCards": "भेट कार्डे"
     }
 }

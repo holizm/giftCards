@@ -3,7 +3,10 @@
         "balance": "Baki kad hadiah",
         "code": "Kod kad hadiah",
         "giftCard": "Kad hadiah",
-        "giftCards": "Kad hadiah",
-        "initialValue": "Nilai awal"
+        "giftCardBatch": "Kelompok kad hadiah",
+        "giftCardBatches": "Kelompok kad hadiah",
+        "giftCardTransaction": "Transaksi kad hadiah",
+        "giftCardTransactions": "Transaksi kad hadiah",
+        "giftCards": "Kad hadiah"
     }
 }

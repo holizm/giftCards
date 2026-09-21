@@ -3,7 +3,10 @@
         "balance": "기프트 카드 잔액",
         "code": "기프트 카드 코드",
         "giftCard": "기프트 카드",
-        "giftCards": "기프트 카드",
-        "initialValue": "초기 금액"
+        "giftCardBatch": "기프트 카드 배치",
+        "giftCardBatches": "기프트 카드 배치",
+        "giftCardTransaction": "기프트 카드 거래",
+        "giftCardTransactions": "기프트 카드 거래",
+        "giftCards": "기프트 카드"
     }
 }

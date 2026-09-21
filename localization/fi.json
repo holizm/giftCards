@@ -3,7 +3,10 @@
         "balance": "Lahjakortin saldo",
         "code": "Lahjakortin koodi",
         "giftCard": "Lahjakortti",
-        "giftCards": "Lahjakortit",
-        "initialValue": "Alkuarvo"
+        "giftCardBatch": "Lahjakorttierä",
+        "giftCardBatches": "Lahjakorttierät",
+        "giftCardTransaction": "Lahjakorttitapahtuma",
+        "giftCardTransactions": "Lahjakorttitapahtumat",
+        "giftCards": "Lahjakortit"
     }
 }

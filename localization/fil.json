@@ -3,7 +3,10 @@
         "balance": "Balanse ng gift card",
         "code": "Code ng gift card",
         "giftCard": "Gift card",
-        "giftCards": "Mga gift card",
-        "initialValue": "Paunang halaga"
+        "giftCardBatch": "Batch ng gift card",
+        "giftCardBatches": "Mga batch ng gift card",
+        "giftCardTransaction": "Transaksyon sa gift card",
+        "giftCardTransactions": "Mga transaksyon sa gift card",
+        "giftCards": "Mga gift card"
     }
 }

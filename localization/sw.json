@@ -3,7 +3,10 @@
         "balance": "Salio ya kadi ya zawadi",
         "code": "Msimbo wa kadi ya zawadi",
         "giftCard": "Kadi ya zawadi",
-        "giftCards": "Kadi za zawadi",
-        "initialValue": "Thamani ya awali"
+        "giftCardBatch": "Kundi la kadi za zawadi",
+        "giftCardBatches": "Makundi ya kadi za zawadi",
+        "giftCardTransaction": "Muamala wa kadi ya zawadi",
+        "giftCardTransactions": "Miamala ya kadi za zawadi",
+        "giftCards": "Kadi za zawadi"
     }
 }

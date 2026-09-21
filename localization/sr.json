@@ -3,7 +3,10 @@
         "balance": "Стање поклон-картице",
         "code": "Код поклон-картице",
         "giftCard": "Поклон-картица",
-        "giftCards": "Поклон-картице",
-        "initialValue": "Почетна вредност"
+        "giftCardBatch": "Серија поклон-картица",
+        "giftCardBatches": "Серије поклон-картица",
+        "giftCardTransaction": "Трансакција поклон-картице",
+        "giftCardTransactions": "Трансакције поклон-картица",
+        "giftCards": "Поклон-картице"
     }
 }

@@ -3,7 +3,10 @@
         "balance": "Saldo på gavekort",
         "code": "Gavekortkode",
         "giftCard": "Gavekort",
-        "giftCards": "Gavekort",
-        "initialValue": "Startværdi"
+        "giftCardBatch": "Gavekortparti",
+        "giftCardBatches": "Gavekortpartier",
+        "giftCardTransaction": "Gavekorttransaktion",
+        "giftCardTransactions": "Gavekorttransaktioner",
+        "giftCards": "Gavekort"
     }
 }

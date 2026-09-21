@@ -3,7 +3,10 @@
         "balance": "Saldo van cadeaukaart",
         "code": "Cadeaukaartcode",
         "giftCard": "Cadeaukaart",
-        "giftCards": "Cadeaukaarten",
-        "initialValue": "Beginwaarde"
+        "giftCardBatch": "Cadeaukaartbatch",
+        "giftCardBatches": "Cadeaukaartbatches",
+        "giftCardTransaction": "Cadeaukaarttransactie",
+        "giftCardTransactions": "Cadeaukaarttransacties",
+        "giftCards": "Cadeaukaarten"
     }
 }

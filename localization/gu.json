@@ -3,7 +3,10 @@
         "balance": "ભેટ કાર્ડની બાકી રકમ",
         "code": "ભેટ કાર્ડ કોડ",
         "giftCard": "ભેટ કાર્ડ",
-        "giftCards": "ભેટ કાર્ડ",
-        "initialValue": "પ્રારંભિક મૂલ્ય"
+        "giftCardBatch": "ભેટ કાર્ડ બેચ",
+        "giftCardBatches": "ભેટ કાર્ડ બેચ",
+        "giftCardTransaction": "ભેટ કાર્ડ વ્યવહાર",
+        "giftCardTransactions": "ભેટ કાર્ડ વ્યવહારો",
+        "giftCards": "ભેટ કાર્ડ"
     }
 }

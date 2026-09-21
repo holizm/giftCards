@@ -7,7 +7,7 @@ export default [
             },
             {
                 path: '/giftCards/giftCardTransaction/list',
-                title: 'giftCardsTransactions',
+                title: 'coreTransactions',
             },
         ],
         icon: 'cardGiftcard',

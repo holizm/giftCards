@@ -3,7 +3,10 @@
         "balance": "Ìyókù káàdì ẹ̀bùn",
         "code": "Kóòdù káàdì ẹ̀bùn",
         "giftCard": "Káàdì ẹ̀bùn",
-        "giftCards": "Àwọn káàdì ẹ̀bùn",
-        "initialValue": "Iye ìbẹ̀rẹ̀"
+        "giftCardBatch": "Ìpele káàdì ẹ̀bùn",
+        "giftCardBatches": "Àwọn ìpele káàdì ẹ̀bùn",
+        "giftCardTransaction": "Ìdúnàádúrà káàdì ẹ̀bùn",
+        "giftCardTransactions": "Àwọn ìdúnàádúrà káàdì ẹ̀bùn",
+        "giftCards": "Àwọn káàdì ẹ̀bùn"
     }
 }

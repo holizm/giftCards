@@ -3,7 +3,10 @@
         "balance": "Số dư thẻ quà tặng",
         "code": "Mã thẻ quà tặng",
         "giftCard": "Thẻ quà tặng",
-        "giftCards": "Thẻ quà tặng",
-        "initialValue": "Giá trị ban đầu"
+        "giftCardBatch": "Lô thẻ quà tặng",
+        "giftCardBatches": "Các lô thẻ quà tặng",
+        "giftCardTransaction": "Giao dịch thẻ quà tặng",
+        "giftCardTransactions": "Các giao dịch thẻ quà tặng",
+        "giftCards": "Thẻ quà tặng"
     }
 }

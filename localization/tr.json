@@ -3,7 +3,10 @@
         "balance": "Hediye kartı bakiyesi",
         "code": "Hediye kartı kodu",
         "giftCard": "Hediye kartı",
-        "giftCards": "Hediye kartları",
-        "initialValue": "Başlangıç değeri"
+        "giftCardBatch": "Hediye kartı grubu",
+        "giftCardBatches": "Hediye kartı grupları",
+        "giftCardTransaction": "Hediye kartı işlemi",
+        "giftCardTransactions": "Hediye kartı işlemleri",
+        "giftCards": "Hediye kartları"
     }
 }

@@ -3,7 +3,10 @@
         "balance": "Saldo på presentkort",
         "code": "Presentkortskod",
         "giftCard": "Presentkort",
-        "giftCards": "Presentkort",
-        "initialValue": "Startvärde"
+        "giftCardBatch": "Presentkortsparti",
+        "giftCardBatches": "Presentkortspartier",
+        "giftCardTransaction": "Presentkortstransaktion",
+        "giftCardTransactions": "Presentkortstransaktioner",
+        "giftCards": "Presentkort"
     }
 }

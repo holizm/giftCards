@@ -3,7 +3,10 @@
         "balance": "လက်ဆောင်ကတ် လက်ကျန်",
         "code": "လက်ဆောင်ကတ် ကုဒ်",
         "giftCard": "လက်ဆောင်ကတ်",
-        "giftCards": "လက်ဆောင်ကတ်များ",
-        "initialValue": "ကနဦးတန်ဖိုး"
+        "giftCardBatch": "လက်ဆောင်ကတ် အုပ်စု",
+        "giftCardBatches": "လက်ဆောင်ကတ် အုပ်စုများ",
+        "giftCardTransaction": "လက်ဆောင်ကတ် ငွေလွှဲမှု",
+        "giftCardTransactions": "လက်ဆောင်ကတ် ငွေလွှဲမှုများ",
+        "giftCards": "လက်ဆောင်ကတ်များ"
     }
 }

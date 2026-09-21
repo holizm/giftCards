@@ -3,7 +3,10 @@
         "balance": "Solde de la carte-cadeau",
         "code": "Code de la carte-cadeau",
         "giftCard": "Carte-cadeau",
-        "giftCards": "Cartes-cadeaux",
-        "initialValue": "Valeur initiale"
+        "giftCardBatch": "Lot de cartes-cadeaux",
+        "giftCardBatches": "Lots de cartes-cadeaux",
+        "giftCardTransaction": "Transaction de carte-cadeau",
+        "giftCardTransactions": "Transactions de cartes-cadeaux",
+        "giftCards": "Cartes-cadeaux"
     }
 }

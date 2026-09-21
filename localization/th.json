@@ -3,7 +3,10 @@
         "balance": "ยอดคงเหลือบัตรของขวัญ",
         "code": "รหัสบัตรของขวัญ",
         "giftCard": "บัตรของขวัญ",
-        "giftCards": "บัตรของขวัญ",
-        "initialValue": "มูลค่าเริ่มต้น"
+        "giftCardBatch": "ชุดบัตรของขวัญ",
+        "giftCardBatches": "ชุดบัตรของขวัญ",
+        "giftCardTransaction": "ธุรกรรมบัตรของขวัญ",
+        "giftCardTransactions": "ธุรกรรมบัตรของขวัญ",
+        "giftCards": "บัตรของขวัญ"
     }
 }

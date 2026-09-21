@@ -3,7 +3,10 @@
         "balance": "ギフトカード残高",
         "code": "ギフトカードコード",
         "giftCard": "ギフトカード",
-        "giftCards": "ギフトカード",
-        "initialValue": "初期金額"
+        "giftCardBatch": "ギフトカードバッチ",
+        "giftCardBatches": "ギフトカードバッチ",
+        "giftCardTransaction": "ギフトカード取引",
+        "giftCardTransactions": "ギフトカード取引",
+        "giftCards": "ギフトカード"
     }
 }

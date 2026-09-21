@@ -3,7 +3,10 @@
         "balance": "יתרת כרטיס המתנה",
         "code": "קוד כרטיס המתנה",
         "giftCard": "כרטיס מתנה",
-        "giftCards": "כרטיסי מתנה",
-        "initialValue": "ערך התחלתי"
+        "giftCardBatch": "אצוות כרטיסי מתנה",
+        "giftCardBatches": "אצוות כרטיסי מתנה",
+        "giftCardTransaction": "עסקת כרטיס מתנה",
+        "giftCardTransactions": "עסקאות כרטיסי מתנה",
+        "giftCards": "כרטיסי מתנה"
     }
 }

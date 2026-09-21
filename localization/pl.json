@@ -3,7 +3,10 @@
         "balance": "Saldo karty podarunkowej",
         "code": "Kod karty podarunkowej",
         "giftCard": "Karta podarunkowa",
-        "giftCards": "Karty podarunkowe",
-        "initialValue": "Wartość początkowa"
+        "giftCardBatch": "Partia kart podarunkowych",
+        "giftCardBatches": "Partie kart podarunkowych",
+        "giftCardTransaction": "Transakcja kartą podarunkową",
+        "giftCardTransactions": "Transakcje kartami podarunkowymi",
+        "giftCards": "Karty podarunkowe"
     }
 }

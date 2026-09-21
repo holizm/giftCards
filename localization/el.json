@@ -3,7 +3,10 @@
         "balance": "Υπόλοιπο δωροκάρτας",
         "code": "Κωδικός δωροκάρτας",
         "giftCard": "Δωροκάρτα",
-        "giftCards": "Δωροκάρτες",
-        "initialValue": "Αρχική αξία"
+        "giftCardBatch": "Παρτίδα δωροκαρτών",
+        "giftCardBatches": "Παρτίδες δωροκαρτών",
+        "giftCardTransaction": "Συναλλαγή δωροκάρτας",
+        "giftCardTransactions": "Συναλλαγές δωροκαρτών",
+        "giftCards": "Δωροκάρτες"
     }
 }

@@ -3,7 +3,10 @@
         "balance": "Ajándékkártya-egyenleg",
         "code": "Ajándékkártyakód",
         "giftCard": "Ajándékkártya",
-        "giftCards": "Ajándékkártyák",
-        "initialValue": "Kezdeti érték"
+        "giftCardBatch": "Ajándékkártya-köteg",
+        "giftCardBatches": "Ajándékkártya-kötegek",
+        "giftCardTransaction": "Ajándékkártya-tranzakció",
+        "giftCardTransactions": "Ajándékkártya-tranzakciók",
+        "giftCards": "Ajándékkártyák"
     }
 }

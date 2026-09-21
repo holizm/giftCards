@@ -3,7 +3,10 @@
         "balance": "उपहार कार्ड शेष",
         "code": "उपहार कार्ड कोड",
         "giftCard": "उपहार कार्ड",
-        "giftCards": "उपहार कार्ड",
-        "initialValue": "प्रारंभिक मूल्य"
+        "giftCardBatch": "उपहार कार्ड बैच",
+        "giftCardBatches": "उपहार कार्ड बैच",
+        "giftCardTransaction": "उपहार कार्ड लेनदेन",
+        "giftCardTransactions": "उपहार कार्ड लेनदेन",
+        "giftCards": "उपहार कार्ड"
     }
 }

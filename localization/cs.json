@@ -3,7 +3,10 @@
         "balance": "Zůstatek dárkové karty",
         "code": "Kód dárkové karty",
         "giftCard": "Dárková karta",
-        "giftCards": "Dárkové karty",
-        "initialValue": "Počáteční hodnota"
+        "giftCardBatch": "Dávka dárkových karet",
+        "giftCardBatches": "Dávky dárkových karet",
+        "giftCardTransaction": "Transakce dárkové karty",
+        "giftCardTransactions": "Transakce dárkových karet",
+        "giftCards": "Dárkové karty"
     }
 }

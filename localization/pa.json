@@ -3,7 +3,10 @@
         "balance": "ਤੋਹਫ਼ਾ ਕਾਰਡ ਬਕਾਇਆ",
         "code": "ਤੋਹਫ਼ਾ ਕਾਰਡ ਕੋਡ",
         "giftCard": "ਤੋਹਫ਼ਾ ਕਾਰਡ",
-        "giftCards": "ਤੋਹਫ਼ਾ ਕਾਰਡ",
-        "initialValue": "ਸ਼ੁਰੂਆਤੀ ਮੁੱਲ"
+        "giftCardBatch": "ਤੋਹਫ਼ਾ ਕਾਰਡ ਬੈਚ",
+        "giftCardBatches": "ਤੋਹਫ਼ਾ ਕਾਰਡ ਬੈਚ",
+        "giftCardTransaction": "ਤੋਹਫ਼ਾ ਕਾਰਡ ਲੈਣ-ਦੇਣ",
+        "giftCardTransactions": "ਤੋਹਫ਼ਾ ਕਾਰਡ ਲੈਣ-ਦੇਣ",
+        "giftCards": "ਤੋਹਫ਼ਾ ਕਾਰਡ"
     }
 }

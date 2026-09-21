@@ -3,7 +3,10 @@
         "balance": "رصيد بطاقة الهدايا",
         "code": "رمز بطاقة الهدايا",
         "giftCard": "بطاقة هدايا",
-        "giftCards": "بطاقات الهدايا",
-        "initialValue": "القيمة الأولية"
+        "giftCardBatch": "دفعة بطاقات هدايا",
+        "giftCardBatches": "دفعات بطاقات هدايا",
+        "giftCardTransaction": "معاملة بطاقة هدايا",
+        "giftCardTransactions": "معاملات بطاقات الهدايا",
+        "giftCards": "بطاقات الهدايا"
     }
 }

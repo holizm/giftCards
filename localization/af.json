@@ -3,7 +3,10 @@
         "balance": "Geskenkbewyssaldo",
         "code": "Geskenkbewyskode",
         "giftCard": "Geskenkbewys",
-        "giftCards": "Geskenkbewyse",
-        "initialValue": "Aanvangswaarde"
+        "giftCardBatch": "Geskenkkaartgroep",
+        "giftCardBatches": "Geskenkkaartgroepe",
+        "giftCardTransaction": "Geskenkkaarttransaksie",
+        "giftCardTransactions": "Geskenkkaarttransaksies",
+        "giftCards": "Geskenkbewyse"
     }
 }

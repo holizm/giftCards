@@ -3,7 +3,10 @@
         "balance": "Gift card balance",
         "code": "Gift card code",
         "giftCard": "Gift card",
-        "giftCards": "Gift cards",
-        "initialValue": "Initial value"
+        "giftCardBatch": "Gift card batch",
+        "giftCardBatches": "Gift card batches",
+        "giftCardTransaction": "Gift card transaction",
+        "giftCardTransactions": "Gift card transactions",
+        "giftCards": "Gift cards"
     }
 }

@@ -3,7 +3,10 @@
         "balance": "موجودی کارت هدیه",
         "code": "کد کارت هدیه",
         "giftCard": "کارت هدیه",
-        "giftCards": "کارت‌های هدیه",
-        "initialValue": "ارزش اولیه"
+        "giftCardBatch": "دسته کارت هدیه",
+        "giftCardBatches": "دسته‌های کارت هدیه",
+        "giftCardTransaction": "تراکنش کارت هدیه",
+        "giftCardTransactions": "تراکنش‌های کارت هدیه",
+        "giftCards": "کارت‌های هدیه"
     }
 }

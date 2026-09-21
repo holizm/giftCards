@@ -3,7 +3,10 @@
         "balance": "Soldul cardului cadou",
         "code": "Codul cardului cadou",
         "giftCard": "Card cadou",
-        "giftCards": "Carduri cadou",
-        "initialValue": "Valoare inițială"
+        "giftCardBatch": "Lot de carduri cadou",
+        "giftCardBatches": "Loturi de carduri cadou",
+        "giftCardTransaction": "Tranzacție cu card cadou",
+        "giftCardTransactions": "Tranzacții cu carduri cadou",
+        "giftCards": "Carduri cadou"
     }
 }

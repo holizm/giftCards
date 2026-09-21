@@ -3,7 +3,10 @@
         "balance": "Geschenkkartenguthaben",
         "code": "Geschenkkartencode",
         "giftCard": "Geschenkkarte",
-        "giftCards": "Geschenkkarten",
-        "initialValue": "Anfangswert"
+        "giftCardBatch": "Geschenkkartencharge",
+        "giftCardBatches": "Geschenkkartenchargen",
+        "giftCardTransaction": "Geschenkkartentransaktion",
+        "giftCardTransactions": "Geschenkkartentransaktionen",
+        "giftCards": "Geschenkkarten"
     }
 }

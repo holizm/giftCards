@@ -3,7 +3,10 @@
         "balance": "Ragowar katin kyauta",
         "code": "Lambar katin kyauta",
         "giftCard": "Katin kyauta",
-        "giftCards": "Katunan kyauta",
-        "initialValue": "Ƙimar farko"
+        "giftCardBatch": "Rukunin katunan kyauta",
+        "giftCardBatches": "Rukunonin katunan kyauta",
+        "giftCardTransaction": "Mu’amalar katin kyauta",
+        "giftCardTransactions": "Mu’amalolin katin kyauta",
+        "giftCards": "Katunan kyauta"
     }
 }

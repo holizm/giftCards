@@ -3,7 +3,10 @@
         "balance": "የስጦታ ካርድ ቀሪ ሂሳብ",
         "code": "የስጦታ ካርድ ኮድ",
         "giftCard": "የስጦታ ካርድ",
-        "giftCards": "የስጦታ ካርዶች",
-        "initialValue": "የመጀመሪያ ዋጋ"
+        "giftCardBatch": "የስጦታ ካርድ ቡድን",
+        "giftCardBatches": "የስጦታ ካርድ ቡድኖች",
+        "giftCardTransaction": "የስጦታ ካርድ ግብይት",
+        "giftCardTransactions": "የስጦታ ካርድ ግብይቶች",
+        "giftCards": "የስጦታ ካርዶች"
     }
 }

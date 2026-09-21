@@ -3,7 +3,10 @@
         "balance": "Saldo do cartão-presente",
         "code": "Código do cartão-presente",
         "giftCard": "Cartão-presente",
-        "giftCards": "Cartões-presente",
-        "initialValue": "Valor inicial"
+        "giftCardBatch": "Lote de cartões-presente",
+        "giftCardBatches": "Lotes de cartões-presente",
+        "giftCardTransaction": "Transação de cartão-presente",
+        "giftCardTransactions": "Transações de cartões-presente",
+        "giftCards": "Cartões-presente"
     }
 }

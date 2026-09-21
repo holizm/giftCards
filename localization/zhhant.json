@@ -3,7 +3,10 @@
         "balance": "禮品卡餘額",
         "code": "禮品卡代碼",
         "giftCard": "禮品卡",
-        "giftCards": "禮品卡",
-        "initialValue": "初始金額"
+        "giftCardBatch": "禮品卡批次",
+        "giftCardBatches": "禮品卡批次",
+        "giftCardTransaction": "禮品卡交易",
+        "giftCardTransactions": "禮品卡交易",
+        "giftCards": "禮品卡"
     }
 }

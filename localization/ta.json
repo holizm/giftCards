@@ -3,7 +3,10 @@
         "balance": "பரிசு அட்டை இருப்பு",
         "code": "பரிசு அட்டை குறியீடு",
         "giftCard": "பரிசு அட்டை",
-        "giftCards": "பரிசு அட்டைகள்",
-        "initialValue": "தொடக்க மதிப்பு"
+        "giftCardBatch": "பரிசு அட்டைத் தொகுதி",
+        "giftCardBatches": "பரிசு அட்டைத் தொகுதிகள்",
+        "giftCardTransaction": "பரிசு அட்டைப் பரிவர்த்தனை",
+        "giftCardTransactions": "பரிசு அட்டைப் பரிவர்த்தனைகள்",
+        "giftCards": "பரிசு அட்டைகள்"
     }
 }

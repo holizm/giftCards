@@ -3,7 +3,10 @@
         "balance": "تحفہ کارڈ کا بیلنس",
         "code": "تحفہ کارڈ کا کوڈ",
         "giftCard": "تحفہ کارڈ",
-        "giftCards": "تحفہ کارڈز",
-        "initialValue": "ابتدائی قدر"
+        "giftCardBatch": "گفٹ کارڈ بیچ",
+        "giftCardBatches": "گفٹ کارڈ بیچز",
+        "giftCardTransaction": "گفٹ کارڈ لین دین",
+        "giftCardTransactions": "گفٹ کارڈ لین دین",
+        "giftCards": "تحفہ کارڈز"
     }
 }

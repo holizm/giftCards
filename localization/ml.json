@@ -3,7 +3,10 @@
         "balance": "സമ്മാന കാർഡ് ബാലൻസ്",
         "code": "സമ്മാന കാർഡ് കോഡ്",
         "giftCard": "സമ്മാന കാർഡ്",
-        "giftCards": "സമ്മാന കാർഡുകൾ",
-        "initialValue": "പ്രാരംഭ മൂല്യം"
+        "giftCardBatch": "സമ്മാന കാർഡ് ബാച്ച്",
+        "giftCardBatches": "സമ്മാന കാർഡ് ബാച്ചുകൾ",
+        "giftCardTransaction": "സമ്മാന കാർഡ് ഇടപാട്",
+        "giftCardTransactions": "സമ്മാന കാർഡ് ഇടപാടുകൾ",
+        "giftCards": "സമ്മാന കാർഡുകൾ"
     }
 }

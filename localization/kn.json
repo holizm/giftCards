@@ -3,7 +3,10 @@
         "balance": "ಉಡುಗೊರೆ ಕಾರ್ಡ್ ಬಾಕಿ",
         "code": "ಉಡುಗೊರೆ ಕಾರ್ಡ್ ಸಂಕೇತ",
         "giftCard": "ಉಡುಗೊರೆ ಕಾರ್ಡ್",
-        "giftCards": "ಉಡುಗೊರೆ ಕಾರ್ಡ್‌ಗಳು",
-        "initialValue": "ಆರಂಭಿಕ ಮೌಲ್ಯ"
+        "giftCardBatch": "ಉಡುಗೊರೆ ಕಾರ್ಡ್ ಬ್ಯಾಚ್",
+        "giftCardBatches": "ಉಡುಗೊರೆ ಕಾರ್ಡ್ ಬ್ಯಾಚ್‌ಗಳು",
+        "giftCardTransaction": "ಉಡುಗೊರೆ ಕಾರ್ಡ್ ವ್ಯವಹಾರ",
+        "giftCardTransactions": "ಉಡುಗೊರೆ ಕಾರ್ಡ್ ವ್ಯವಹಾರಗಳು",
+        "giftCards": "ಉಡುಗೊರೆ ಕಾರ್ಡ್‌ಗಳು"
     }
 }

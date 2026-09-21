@@ -13,7 +13,7 @@ const inputs = <>
         required
     />
     <Numeric
-        placeholder='giftCardsInitialValue'
+        placeholder='coreInitialValue'
         property='initialValue'
         required
     />

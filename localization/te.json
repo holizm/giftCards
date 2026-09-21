@@ -3,7 +3,10 @@
         "balance": "బహుమతి కార్డ్ నిల్వ",
         "code": "బహుమతి కార్డ్ కోడ్",
         "giftCard": "బహుమతి కార్డ్",
-        "giftCards": "బహుమతి కార్డ్‌లు",
-        "initialValue": "ప్రారంభ విలువ"
+        "giftCardBatch": "బహుమతి కార్డు బ్యాచ్",
+        "giftCardBatches": "బహుమతి కార్డు బ్యాచ్‌లు",
+        "giftCardTransaction": "బహుమతి కార్డు లావాదేవీ",
+        "giftCardTransactions": "బహుమతి కార్డు లావాదేవీలు",
+        "giftCards": "బహుమతి కార్డ్‌లు"
     }
 }

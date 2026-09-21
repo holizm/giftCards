@@ -3,7 +3,10 @@
         "balance": "Stanje darovne kartice",
         "code": "Kod darovne kartice",
         "giftCard": "Darovna kartica",
-        "giftCards": "Darovne kartice",
-        "initialValue": "Početna vrijednost"
+        "giftCardBatch": "Serija darovnih kartica",
+        "giftCardBatches": "Serije darovnih kartica",
+        "giftCardTransaction": "Transakcija darovne kartice",
+        "giftCardTransactions": "Transakcije darovnih kartica",
+        "giftCards": "Darovne kartice"
     }
 }
