@@ -9,11 +9,11 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='giftCard'
-        property='giftCard'
+        giftCard
         required
     />
     <Select
+        giftCardTransactionType
         options={[
             'issue',
             'load',
@@ -23,23 +23,17 @@ const inputs = <>
             'adjustment',
         ]}
         placeholder='transactionType'
-        property='giftCardTransactionType'
         required
     />
     <Numeric
-        placeholder='amount'
-        property='amount'
+        amount
         required
     />
     <DateTime
-        placeholder='transactionDate'
-        property='transactionDate'
         required
+        transactionDate
     />
-    <LongText
-        placeholder='description'
-        property='description'
-    />
+    <LongText description />
 </>
 
 export default <DialogForm inputs={inputs} />

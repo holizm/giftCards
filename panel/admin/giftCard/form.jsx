@@ -8,26 +8,23 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='code'
-        property='code'
+        code
         required
     />
     <Numeric
-        placeholder='initialValue'
-        property='initialValue'
+        initialValue
         required
     />
     <Numeric
-        placeholder='balance'
-        property='balance'
+        balance
         required
     />
     <Text
-        placeholder='currency'
-        property='currency'
+        currency
         required
     />
     <Select
+        giftCardStatus
         options={[
             'pending',
             'active',
@@ -37,13 +34,9 @@ const inputs = <>
             'cancelled',
         ]}
         placeholder='state'
-        property='giftCardStatus'
         required
     />
-    <DateTime
-        placeholder='expiryDate'
-        property='expiryDate'
-    />
+    <DateTime expiryDate />
 </>
 
 export default <DialogForm inputs={inputs} />
