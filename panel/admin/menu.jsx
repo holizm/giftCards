@@ -3,15 +3,15 @@ export default [
         children: [
             {
                 path: '/giftCards/giftCard/list',
-                title: 'giftCardsGiftCards',
+                title: 'giftCards',
             },
             {
                 path: '/giftCards/giftCardTransaction/list',
-                title: 'coreTransactions',
+                title: 'transactions',
             },
         ],
         icon: 'cardGiftcard',
         path: '/giftCards',
-        title: 'giftCardsGiftCards',
+        title: 'giftCards',
     },
 ]

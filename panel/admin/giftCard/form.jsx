@@ -8,22 +8,22 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='giftCardsCode'
+        placeholder='code'
         property='code'
         required
     />
     <Numeric
-        placeholder='coreInitialValue'
+        placeholder='initialValue'
         property='initialValue'
         required
     />
     <Numeric
-        placeholder='giftCardsBalance'
+        placeholder='balance'
         property='balance'
         required
     />
     <Text
-        placeholder='giftCardsCurrency'
+        placeholder='currency'
         property='currency'
         required
     />
@@ -36,12 +36,12 @@ const inputs = <>
             'expired',
             'cancelled',
         ]}
-        placeholder='stateMachinesState'
+        placeholder='state'
         property='giftCardStatus'
         required
     />
     <DateTime
-        placeholder='coreExpiryDate'
+        placeholder='expiryDate'
         property='expiryDate'
     />
 </>

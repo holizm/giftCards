@@ -31,6 +31,8 @@ giftCard
     activationDate optional
     expiryDate optional
     unique code
+    uses
+        stateMachines
 giftCardTransaction
     giftCard
     giftCardTransactionType

@@ -9,7 +9,7 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='giftCardsGiftCard'
+        placeholder='giftCard'
         property='giftCard'
         required
     />
@@ -22,22 +22,22 @@ const inputs = <>
             'transfer',
             'adjustment',
         ]}
-        placeholder='coreTransactionType'
+        placeholder='transactionType'
         property='giftCardTransactionType'
         required
     />
     <Numeric
-        placeholder='giftCardsAmount'
+        placeholder='amount'
         property='amount'
         required
     />
     <DateTime
-        placeholder='coreTransactionDate'
+        placeholder='transactionDate'
         property='transactionDate'
         required
     />
     <LongText
-        placeholder='giftCardsDescription'
+        placeholder='description'
         property='description'
     />
 </>

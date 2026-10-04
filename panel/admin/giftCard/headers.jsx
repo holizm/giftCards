@@ -1,6 +1,6 @@
 export default <>
-    <th start>giftCardsCode</th>
-    <th>giftCardsBalance</th>
-    <th>giftCardsCurrency</th>
-    <th>stateMachinesState</th>
+    <th start>code</th>
+    <th>balance</th>
+    <th>currency</th>
+    <th>state</th>
 </>
